@@ -59,7 +59,7 @@
     <li>
       <strong>The Fashion-Conscious Shopper</strong><br>
       <strong>Age</strong>: 20-35<br>
-      <strong>Occupation</strong>: Young professionals student<br>
+      <strong>Occupation</strong>: Young professionals, student<br>
       <strong>Needs</strong>: Wants to stay on-trend but often hesitant to shop online due to the risk of receiving items that don't fit.<br>
       <strong>Pain Points</strong>: Frustrated by the size inconsistencies between different brands.<br>
       <strong>How VirtualFit Helps</strong>: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.
