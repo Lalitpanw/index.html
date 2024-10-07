@@ -55,8 +55,11 @@
     <h2>User Personas</h2>
     <p>VirtualFit is designed for different types of online shoppers, including:</p>
     <ul>
-      <li><strong>The Fashion-Conscious Shopper</strong> – Age: 20-35 Occupation: Young professionals, Wants to stay on-trend but often hesitant to shop online due to the risk of receiving items that don't fit Pain Points: Frustrated by the size inconsistencies between different brands.
-How VirtualFit Helps: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.</li>
+      <li><strong>The Fashion-Conscious Shopper</strong> – Age: 20-35 
+                                                           Occupation: Young professionals, 
+                                                          Needs Wants to stay on-trend but often hesitant to shop online due to the risk of receiving items that don't fit 
+                                                          Pain Points: Frustrated by the size inconsistencies between different brands.
+                                                          How VirtualFit Helps: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.</li>
       <li><strong>The Busy Professional</strong> – Prefers online shopping for convenience but dislikes returns.</li>
       <li><strong>The Budget-Conscious Shopper</strong> – Seeks value for money and wants to avoid costly returns.</li>
     </ul>
