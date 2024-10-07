@@ -113,36 +113,6 @@
     <p>Users can provide feedback after trying on or purchasing clothing, which VirtualFit uses to improve future recommendations and refine size suggestions based on real-world data.</p>
 </section>
 
-
-  <section>
-    <h2>Screenshots/Mockups</h2>
-    <p>Here are some mockups and designs showcasing the VirtualFit experience:</p>
-    <img src="https://via.placeholder.com/600x400" alt="VirtualFit Mockup" class="project-image">
-    <p>(Replace this image with real mockups of VirtualFit)</p>
-  </section>
-
-  <section>
-    <h2>Challenges and Solutions</h2>
-    <p>During development, some challenges included handling size inconsistencies across brands and rendering performance issues. These were resolved by integrating brand-specific size charts and optimizing 3D avatar performance using WebGL.</p>
-  </section>
-
-  <section>
-    <h2>Future Enhancements</h2>
-    <p>Future plans for VirtualFit include:</p>
-    <ul>
-      <li>Integrating Augmented Reality (AR) for real-world virtual try-on experiences.</li>
-      <li>Introducing AI-driven size recommendations based on user feedback and purchase history.</li>
-      <li>Expanding to accessories and footwear to complete the full virtual wardrobe experience.</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>Contact Info</h2>
-    <p>If you'd like to learn more about VirtualFit or collaborate, feel free to reach out:</p>
-    <p><strong>Email</strong>: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-    <p><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
-    <p><strong>GitHub</strong>: <a href="https://github.com/your-username">GitHub Profile</a></p>
-  </section>
-
 </body>
 </html>
+
