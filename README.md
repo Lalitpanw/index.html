@@ -86,7 +86,7 @@
 
   <section>
     <h2>Key Features</h2>
-    <ul>
+    <ul>VirtualFit offers a range of features designed to enhance the user experience and improve sizing accuracy <ul>
       <li>Personalized 3D Avatar Creation</li>
       <li>Accurate Size Recommendations</li>
       <li>Real-Time Clothing Try-On</li>
