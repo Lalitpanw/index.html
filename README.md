@@ -43,7 +43,7 @@
 
   <section>
     <h2>Project Overview</h2>
-    <p>VirtualFit is an innovative virtual trial room tool designed to help users visualize how clothing fits based on their height and weight. The project aims to reduce returns, enhance customer confidence, and streamline the online shopping experience.</p>
+    <p>VirtualFit is a virtual trial room solution designed to help online shoppers confidently choose the right clothing size by creating a personalized 3D avatar based on their body measurements (e.g., height, weight, body shape). The goal is to reduce the uncertainty that comes with online shopping, especially when it comes to sizing, which often leads to returns, exchanges, and customer dissatisfaction..</p>
     <img src="https://via.placeholder.com/600x400" alt="VirtualFit Screenshot" class="project-image">
   </section>
 
