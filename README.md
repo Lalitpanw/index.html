@@ -65,6 +65,7 @@
       <strong>How VirtualFit Helps</strong>: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.
     </li>
     <li>
+      
       <strong>The Busy Professional</strong><br>
       <strong>Age</strong>: 28-45<br>
       <strong>Occupation</strong>: Working professionals, parents<br>
@@ -73,6 +74,7 @@
       <strong>How VirtualFit Helps</strong>: Allows them to try on clothes virtually, reducing the likelihood of returns and saving time.
     </li>
     <li>
+    
       <strong>The Budget-Conscious Shopper</strong><br>
       <strong>Age</strong>: 25-50<br>
       <strong>Occupation</strong>: Bargain hunters, deal seekers<br>
@@ -87,11 +89,19 @@
   <section>
     <h2>Key Features</h2>
     <ul>VirtualFit offers a range of features designed to enhance the user experience and improve sizing accuracy <ul>
-      <li>Personalized 3D Avatar Creation</li>
-      <li>Accurate Size Recommendations</li>
-      <li>Real-Time Clothing Try-On</li>
-      <li>Outfit and Style Suggestions</li>
-    </ul>
+      <li>3D Avatar Creation
+ Users can create a personalized 3D avatar based on their body measurements (height, weight, and body shape). This avatar closely resembles their actual proportions, making it easier to visualize clothing fit.</li>
+      <li>Size Recommendation Engine
+       VirtualFit analyzes user inputs and compares them with the size charts of different brands to provide accurate size recommendations. This reduces the likelihood of size mismatches and helps users find the perfect fit for their body type.</li>
+      <li>Real-Time Clothing Try-On
+Users can select clothing items from a product catalog and virtually try them on their avatars in real-time. The tool adjusts the fit according to the selected size and the user's avatar measurements, giving them a clear idea of how the garment will look.</li>
+      <li>Outfit Matching and Suggestions
+VirtualFit recommends clothing items that complement each other, allowing users to create complete outfits or try different styles together (e.g., pairing a top with jeans or skirts).</li>
+    </ul>Body Shape Analysis
+VirtualFit not only uses height and weight but also considers body shape to suggest styles and cuts that will be flattering for the user’s specific physique.</ul>
+</ul>Feedback Loop for Continuous Improvement
+Users can provide feedback after trying on or purchasing clothing, which VirtualFit uses to improve future recommendations and refine size suggestions based on real-world data.</ul>
+
   </section>
 
   <section>
