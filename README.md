@@ -52,18 +52,37 @@
   </section>
 
   <section>
-    <h2>User Personas</h2>
-    <p>VirtualFit is designed for different types of online shoppers, including:</p>
-    <ul>
-      <li><strong>The Fashion-Conscious Shopper</strong> – Age: 20-35 
-                                                           Occupation: Young professionals, 
-                                                          Needs Wants to stay on-trend but often hesitant to shop online due to the risk of receiving items that don't fit 
-                                                          Pain Points: Frustrated by the size inconsistencies between different brands.
-                                                          How VirtualFit Helps: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.</li>
-      <li><strong>The Busy Professional</strong> – Prefers online shopping for convenience but dislikes returns.</li>
-      <li><strong>The Budget-Conscious Shopper</strong> – Seeks value for money and wants to avoid costly returns.</li>
-    </ul>
-  </section>
+   <section>
+  <h2>User Personas</h2>
+  <p>VirtualFit is designed for different types of online shoppers, including:</p>
+  <ul>
+    <li>
+      <strong>The Fashion-Conscious Shopper</strong><br>
+      <strong>Age</strong>: 20-35<br>
+      <strong>Occupation</strong>: Young professionals<br>
+      <strong>Needs</strong>: Wants to stay on-trend but often hesitant to shop online due to the risk of receiving items that don't fit.<br>
+      <strong>Pain Points</strong>: Frustrated by the size inconsistencies between different brands.<br>
+      <strong>How VirtualFit Helps</strong>: Provides personalized size recommendations and a virtual fitting experience, which boosts their confidence in buying online.
+    </li>
+    <li>
+      <strong>The Busy Professional</strong><br>
+      <strong>Age</strong>: 28-45<br>
+      <strong>Occupation</strong>: Working professionals, parents<br>
+      <strong>Needs</strong>: Prefers online shopping for convenience but dislikes the hassle of returns.<br>
+      <strong>Pain Points</strong>: Finds online shopping frustrating because of frequent size mismatches and the effort required to return items.<br>
+      <strong>How VirtualFit Helps</strong>: Allows them to try on clothes virtually, reducing the likelihood of returns and saving time.
+    </li>
+    <li>
+      <strong>The Budget-Conscious Shopper</strong><br>
+      <strong>Age</strong>: 25-50<br>
+      <strong>Occupation</strong>: Bargain hunters, deal seekers<br>
+      <strong>Needs</strong>: Wants the best value for their money but is hesitant to spend on items that might not fit.<br>
+      <strong>Pain Points</strong>: Loses confidence in making purchases due to the potential cost of return shipping or exchanges.<br>
+      <strong>How VirtualFit Helps</strong>: Accurate size recommendations reduce the risk of purchasing the wrong size, leading to better shopping decisions.
+    </li>
+  </ul>
+</section>
+
 
   <section>
     <h2>Key Features</h2>
