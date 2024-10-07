@@ -22,7 +22,7 @@
       padding: 40px;
       text-align: center;
     }
-    h1 {
+    h1, h2 {
       color: #34495e;
     }
     p {
@@ -43,8 +43,22 @@
 
   <section>
     <h2>Project Overview</h2>
-    <p>VirtualFit is a virtual trial room solution designed to help online shoppers confidently choose the right clothing size by creating a personalized 3D avatar based on their body measurements (e.g., height, weight, body shape). The goal is to reduce the uncertainty that comes with online shopping, especially when it comes to sizing, which often leads to returns, exchanges, and customer dissatisfaction..</p>
-    <img src="https://via.placeholder.com/600x400" alt="VirtualFit Screenshot" class="project-image">
+    <p>VirtualFit is an innovative virtual trial room tool designed to help users visualize how clothing fits based on their height and weight. The project aims to reduce returns, enhance customer confidence, and streamline the online shopping experience.</p>
+  </section>
+
+  <section>
+    <h2>Problem It Solves</h2>
+    <p>Online shoppers often face confusion when selecting the right size due to inconsistent size charts across brands. This leads to high return rates, increased operational costs, and customer dissatisfaction. VirtualFit solves this by providing a personalized 3D avatar and accurate size recommendations, reducing the risk of size-related returns and improving customer confidence.</p>
+  </section>
+
+  <section>
+    <h2>User Personas</h2>
+    <p>VirtualFit is designed for different types of online shoppers, including:</p>
+    <ul>
+      <li><strong>The Fashion-Conscious Shopper</strong> – Wants to stay trendy but is hesitant due to size uncertainty.</li>
+      <li><strong>The Busy Professional</strong> – Prefers online shopping for convenience but dislikes returns.</li>
+      <li><strong>The Budget-Conscious Shopper</strong> – Seeks value for money and wants to avoid costly returns.</li>
+    </ul>
   </section>
 
   <section>
@@ -52,19 +66,39 @@
     <ul>
       <li>Personalized 3D Avatar Creation</li>
       <li>Accurate Size Recommendations</li>
-      <li>Real-time Clothing Try-on</li>
+      <li>Real-Time Clothing Try-On</li>
       <li>Outfit and Style Suggestions</li>
     </ul>
   </section>
 
   <section>
-    <h2>Challenges & Solutions</h2>
-    <p>During development, we faced challenges such as integrating brand size charts and optimizing the real-time rendering of 3D avatars. These were addressed by implementing efficient data processing and leveraging the power of WebGL for smooth performance.</p>
+    <h2>Screenshots/Mockups</h2>
+    <p>Here are some mockups and designs showcasing the VirtualFit experience:</p>
+    <img src="https://via.placeholder.com/600x400" alt="VirtualFit Mockup" class="project-image">
+    <p>(Replace this image with real mockups of VirtualFit)</p>
   </section>
 
   <section>
-    <h2>Contact</h2>
-    <p>If you'd like to learn more or get in touch, please contact me via <a href="mailto:youremail@example.com">email</a> or connect with me on <a href="https://www.linkedin.com/">LinkedIn</a>.</p>
+    <h2>Challenges and Solutions</h2>
+    <p>During development, some challenges included handling size inconsistencies across brands and rendering performance issues. These were resolved by integrating brand-specific size charts and optimizing 3D avatar performance using WebGL.</p>
+  </section>
+
+  <section>
+    <h2>Future Enhancements</h2>
+    <p>Future plans for VirtualFit include:</p>
+    <ul>
+      <li>Integrating Augmented Reality (AR) for real-world virtual try-on experiences.</li>
+      <li>Introducing AI-driven size recommendations based on user feedback and purchase history.</li>
+      <li>Expanding to accessories and footwear to complete the full virtual wardrobe experience.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Info</h2>
+    <p>If you'd like to learn more about VirtualFit or collaborate, feel free to reach out:</p>
+    <p><strong>Email</strong>: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+    <p><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/">LinkedIn Profile</a></p>
+    <p><strong>GitHub</strong>: <a href="https://github.com/your-username">GitHub Profile</a></p>
   </section>
 
 </body>
